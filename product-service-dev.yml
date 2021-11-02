@@ -1,5 +1,3 @@
 spring:
   application:
     name: Product-Service-Development
-  profiles:
-    active: dev
